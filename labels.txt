@@ -1,0 +1,4 @@
+0 Class Rock
+1 Class Paper 
+2 Class Scissor 
+3 Class Nothing
